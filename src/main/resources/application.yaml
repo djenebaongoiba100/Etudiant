@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Etudiant
+
+    datasource:
+      url: jdbc:postgresql://localhost:5432/Etudiantbd
+      username: dev
+      password: dev
